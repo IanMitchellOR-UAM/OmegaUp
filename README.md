@@ -4,12 +4,9 @@ Welcome to the **OmegaUp Solutions** repository! This collection features a vari
 
 ---
 
-### 🚨 Disclaimer
+### 🔒 Disclaimer 🔒
 
-> **Note:**  
-> These solutions are intended solely for educational purposes. If you choose to use them for academic tasks, such as university or high school assignments, please be aware that you do so at your own risk. I am not responsible for any consequences arising from their use.  
->  
-> Sharing these solutions is an act of good faith—use them wisely and responsibly.
+Important: These solutions are intended solely for educational purposes and personal reference. Their use in exams, academic assignments, or any activities that violate your institution’s policies is strictly prohibited. By using this material, you assume full responsibility for any actions you may take, and the author of this repository is not liable for any consequences resulting from improper use.
 
 ---
 
