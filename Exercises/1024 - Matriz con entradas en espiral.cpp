@@ -5,13 +5,16 @@
 
 using namespace std;
 
+// Genera y muestra una matriz en espiral de dimensiones m x n
 void generateSpiralMatrix(int m, int n) {
+    // Inicializa la matriz con ceros
     vector<vector<int>> matrix(m, vector<int>(n, 0));
 
     int top = 0, bottom = m - 1;
     int left = 0, right = n - 1;
     int value = 1;
 
+    // Llena la matriz en espiral
     while (top <= bottom && left <= right) {
         // Llenar la fila superior
         for (int i = left; i <= right; ++i) {
@@ -53,8 +56,10 @@ void generateSpiralMatrix(int m, int n) {
 
 int main() {
     int m, n;
+    // Lee las dimensiones de la matriz
     cin >> m >> n;
 
+    // Genera y muestra la matriz en espiral
     generateSpiralMatrix(m, n);
 
     return 0;
