@@ -1,4 +1,4 @@
-# 🌟 OmegaUp Solutions Repository 🌟
+# 🌟 OmegaUp Solutions 🌟
 
 Welcome to the **OmegaUp Solutions** repository! This collection features a variety of solutions to exercises from the OmegaUp platform, carefully crafted for personal reference and learning.
 
